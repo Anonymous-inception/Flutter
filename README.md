@@ -1,5 +1,7 @@
 # Flutter
 A basic flutter code to get an overview, what does this code actually consist of.
 #hacktoberfest
-Flutter SDK is Google's UI toolkit for crafting beautiful, natively compiled applications for MOBILE, WEB, and DESKTOP from a single codebase in effective cost.
+Flutter is an open-source UI software development kit created by Google. 
+It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
+The first version of Flutter was known as codename "Sky" and ran on the Android operating system.
 #hacktoberfest
